@@ -1,0 +1,15 @@
+A:\UP\Pruf_2\Pruf_2\bin\Debug\net6.0\Pruf_2.exe
+A:\UP\Pruf_2\Pruf_2\bin\Debug\net6.0\Pruf_2.deps.json
+A:\UP\Pruf_2\Pruf_2\bin\Debug\net6.0\Pruf_2.runtimeconfig.json
+A:\UP\Pruf_2\Pruf_2\bin\Debug\net6.0\Pruf_2.dll
+A:\UP\Pruf_2\Pruf_2\bin\Debug\net6.0\Pruf_2.pdb
+A:\UP\Pruf_2\Pruf_2\obj\Debug\net6.0\Pruf_2.csproj.AssemblyReference.cache
+A:\UP\Pruf_2\Pruf_2\obj\Debug\net6.0\Pruf_2.GeneratedMSBuildEditorConfig.editorconfig
+A:\UP\Pruf_2\Pruf_2\obj\Debug\net6.0\Pruf_2.AssemblyInfoInputs.cache
+A:\UP\Pruf_2\Pruf_2\obj\Debug\net6.0\Pruf_2.AssemblyInfo.cs
+A:\UP\Pruf_2\Pruf_2\obj\Debug\net6.0\Pruf_2.csproj.CoreCompileInputs.cache
+A:\UP\Pruf_2\Pruf_2\obj\Debug\net6.0\Pruf_2.dll
+A:\UP\Pruf_2\Pruf_2\obj\Debug\net6.0\refint\Pruf_2.dll
+A:\UP\Pruf_2\Pruf_2\obj\Debug\net6.0\Pruf_2.pdb
+A:\UP\Pruf_2\Pruf_2\obj\Debug\net6.0\Pruf_2.genruntimeconfig.cache
+A:\UP\Pruf_2\Pruf_2\obj\Debug\net6.0\ref\Pruf_2.dll
